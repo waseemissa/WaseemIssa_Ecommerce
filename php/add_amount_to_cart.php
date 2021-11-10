@@ -50,3 +50,5 @@ $stmt2->execute();
 
 header('Location:../user_homepage.php');
 }
+
+?>

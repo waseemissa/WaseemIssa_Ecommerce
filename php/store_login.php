@@ -36,8 +36,4 @@ if($row = $result->fetch_assoc()){
         header('Location: ' . $_SERVER['HTTP_REFERER']);
     }
 
-
-
-
-
 ?>

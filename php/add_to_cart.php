@@ -56,3 +56,5 @@ $stmt3->close();
 
 
 echo $total_purchases;
+
+?>
