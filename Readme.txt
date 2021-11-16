@@ -16,4 +16,4 @@ B- Buyers:
 • Ability to like a product (favorite) 
 • Ability to click on a product to see details (single 
 product page – BONUS) 
-Your website should meet the minimum UI/UX standar
+Website should meet the minimum UI/UX standards
